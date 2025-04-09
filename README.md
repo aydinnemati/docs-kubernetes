@@ -1,1 +1,1 @@
-# docs-kubernetes
+# kubernetes docs
